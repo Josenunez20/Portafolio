@@ -23,6 +23,7 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    width: 64%;
 }
 
 .about__me-image:hover{
